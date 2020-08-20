@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey there!
 
+## My name is Pham Hoang Nam Anh, currently a 3rd-year student at Ho Chi Minh International University (or HCMIU for short).
+## I'm aspired to become a Master Web Developer in the future hehehe; however, I'm slow 
 <!--
 **barbatoz0220/barbatoz0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
