@@ -1,17 +1,14 @@
-# Hey there! :rocket:
-## This is Nam Anh writing,
-### About me 😅
-- I'm a sloppy coder with no definitive life goals so far.
-- I've been failing for so many times I cannot count, and yet I'm still here, still aspire to become as good at coding as I can ever imagine.
-- I don't know why either, LOL
+# Hey there! 👋
+### About me 😎
+My name is Phạm Hoàng Nam Anh, and I'm:
+- A sloppy coder on his own journey to rule out the 'sloppiness' in my code.
+- A foodie with 'burning' passion for learning new recipes (see what i did there? 👀)
+- A day-dreamer
 
 ### What I am trying to do right now ⏲️
-- There are so many things going on around me that I cannot figure out at once.
-So many things to do within so little time: 
-  - Learning web technologies and work in a full-stack position
-  - Learning mobile app development to build things that would stop me from looking at my phone 24/7
-  - Learning Data Science, Deep Learning and Machine Learning to create models that do wonders
-  and the list goes on...
+- I have successfully joined the family of KMS-Labs and doing my best to make the most out of my time here
+- Learning old and new things
+- Trying to finish my Goodread's Reading Challenge
 
 ### What I would like to do for tomorrow 📓
 - I don't really know, I'll probably procrastinate for a majority of the time and feel depressed about it later in the night
